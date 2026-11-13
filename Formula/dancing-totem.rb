@@ -1,8 +1,8 @@
 class DancingTotem < Formula
   desc "Menu bar GIF that dances faster as CPU usage rises"
   homepage "https://github.com/syc030403/dancing-totem"
-  url "https://github.com/syc030403/dancing-totem/archive/refs/tags/v1.0.0.tar.gz"
-  sha256 "5361e7f1a3ab0148c6903025cb5405185868087fac0090f6e6a5bffea47fb2fe"
+  url "https://github.com/syc030403/dancing-totem/archive/refs/tags/v1.0.1.tar.gz"
+  sha256 "05312a6d95fd41be9ad4866a131fdd365ce21f1a9bf77b8449fa954763bd3f8d"
 
   depends_on macos: :ventura
 
